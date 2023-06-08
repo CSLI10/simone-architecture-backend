@@ -5,9 +5,9 @@ const router = express.Router();
 const { 
     readData, 
     readOne,
-    createData,
-    updateData,
-    deleteData
+    // createData,
+    // updateData,
+    // deleteData
   } = require('../controllers/project_controller');
 
 router
